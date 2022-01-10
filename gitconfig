@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tobymanley1990@gmail.com
+	name = Toby Manley
